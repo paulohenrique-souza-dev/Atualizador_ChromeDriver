@@ -1,8 +1,8 @@
-"# Atualizador_ChromeDriver" 
+Atualizador Chrome driver
 
-Oii,tudo bem??
-esse programa é um script bem simples da automação do Chrome Driver
-Sua principal função é substituir de forma automática,sem complicações.
+Esse programa é um script bem simples, onde automatiza a atualização continua do driver.
+Sua principal função é substituir o driver, trocando pela versão mais recente, conforme chrome.
+
 
 Crie a venv e instale as bibliotecas com pip install -r requirements.txt
 instale o pyinstaller
@@ -20,3 +20,4 @@ pyinstaller ^
 
   Qualquer dúvida estou a dispor.
   Até mais !!
+
